@@ -1,0 +1,46 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'/home/jp/HE2B-ESI/BA1/DEV2/Chess/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/jp/HE2B-ESI/BA1/DEV2/Chess/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Chess 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Chess 1.0-SNAPSHOT API'
+g58990.chess
+g58990.chess.controller
+g58990.chess.model
+g58990.chess.view
+/home/jp/HE2B-ESI/BA1/DEV2/Chess/src/main/java = 1647601418987
+/home/jp/HE2B-ESI/BA1/DEV2/Chess/target/site/apidocs/member-search-index.js = 1648801929372
+/home/jp/HE2B-ESI/BA1/DEV2/Chess/target/site/apidocs/script.js = 1648801929416
+/home/jp/HE2B-ESI/BA1/DEV2/Chess/target/site/apidocs/type-search-index.js = 1648801929372
+/home/jp/HE2B-ESI/BA1/DEV2/Chess/target/site/apidocs/stylesheet.css = 1648801929416
+/home/jp/HE2B-ESI/BA1/DEV2/Chess/target/site/apidocs/allclasses-index.html = 1648801929368
+/home/jp/HE2B-ESI/BA1/DEV2/Chess/target/site/apidocs/tag-search-index.js = 1648801929372
+/home/jp/HE2B-ESI/BA1/DEV2/Chess/target/site/apidocs/search.js = 1648801929420
+/home/jp/HE2B-ESI/BA1/DEV2/Chess/target/site/apidocs/help-doc.html = 1648801929412
+/home/jp/HE2B-ESI/BA1/DEV2/Chess/target/site/apidocs/index-all.html = 1648801929404
+/home/jp/HE2B-ESI/BA1/DEV2/Chess/target/site/apidocs/overview-tree.html = 1648801929328
+/home/jp/HE2B-ESI/BA1/DEV2/Chess/target/site/apidocs/jquery-ui.overrides.css = 1648801929428
+/home/jp/HE2B-ESI/BA1/DEV2/Chess/target/site/apidocs/module-search-index.js = 1648801929372
+/home/jp/HE2B-ESI/BA1/DEV2/Chess/target/site/apidocs/element-list = 1648801929172
+/home/jp/HE2B-ESI/BA1/DEV2/Chess/target/site/apidocs/overview-summary.html = 1648801929408
+/home/jp/HE2B-ESI/BA1/DEV2/Chess/target/site/apidocs/package-search-index.js = 1648801929372
+/home/jp/HE2B-ESI/BA1/DEV2/Chess/target/site/apidocs/index.html = 1648801929332
+/home/jp/HE2B-ESI/BA1/DEV2/Chess/target/site/apidocs/allpackages-index.html = 1648801929368

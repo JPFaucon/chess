@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="g58990.chess.model.PawnTest" time="0.096" tests="29" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="17"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.class.path" value="/home/jp/HE2B-ESI/BA1/DEV2/Chess/target/test-classes:/home/jp/HE2B-ESI/BA1/DEV2/Chess/target/classes:/home/jp/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.6.0/junit-jupiter-api-5.6.0.jar:/home/jp/.m2/repository/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0.jar:/home/jp/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar:/home/jp/.m2/repository/org/junit/platform/junit-platform-commons/1.6.0/junit-platform-commons-1.6.0.jar:/home/jp/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.6.0/junit-jupiter-params-5.6.0.jar:/home/jp/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.6.0/junit-jupiter-engine-5.6.0.jar:/home/jp/.m2/repository/org/junit/platform/junit-platform-engine/1.6.0/junit-platform-engine-1.6.0.jar:"/>
+    <property name="java.vm.vendor" value="Private Build"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.vendor.url" value="Unknown"/>
+    <property name="os.name" value="Linux"/>
+    <property name="java.vm.specification.version" value="17"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="BE"/>
+    <property name="sun.boot.library.path" value="/usr/lib/jvm/java-17-openjdk-amd64/lib"/>
+    <property name="sun.java.command" value="/home/jp/HE2B-ESI/BA1/DEV2/Chess/target/surefire/surefirebooter9380577539980091074.jar /home/jp/HE2B-ESI/BA1/DEV2/Chess/target/surefire 2022-04-22T11-39-26_088-jvmRun1 surefire129879899050737352tmp surefire_013120064614994434052tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="test" value="g58990.chess.model.PawnTest"/>
+    <property name="surefire.test.class.path" value="/home/jp/HE2B-ESI/BA1/DEV2/Chess/target/test-classes:/home/jp/HE2B-ESI/BA1/DEV2/Chess/target/classes:/home/jp/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.6.0/junit-jupiter-api-5.6.0.jar:/home/jp/.m2/repository/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0.jar:/home/jp/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar:/home/jp/.m2/repository/org/junit/platform/junit-platform-commons/1.6.0/junit-platform-commons-1.6.0.jar:/home/jp/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.6.0/junit-jupiter-params-5.6.0.jar:/home/jp/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.6.0/junit-jupiter-engine-5.6.0.jar:/home/jp/.m2/repository/org/junit/platform/junit-platform-engine/1.6.0/junit-platform-engine-1.6.0.jar:"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="/home/jp"/>
+    <property name="user.language" value="fr"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2022-01-18"/>
+    <property name="java.home" value="/usr/lib/jvm/java-17-openjdk-amd64"/>
+    <property name="file.separator" value="/"/>
+    <property name="basedir" value="/home/jp/HE2B-ESI/BA1/DEV2/Chess"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="/home/jp/HE2B-ESI/BA1/DEV2/Chess/target/surefire/surefirebooter9380577539980091074.jar"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="17.0.2+8-Ubuntu-120.04"/>
+    <property name="user.name" value="jp"/>
+    <property name="path.separator" value=":"/>
+    <property name="os.version" value="5.13.0-40-generic"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="maven.ext.class.path" value="/snap/netbeans/58/netbeans/java/maven-nblib/netbeans-eventspy.jar"/>
+    <property name="localRepository" value="/home/jp/.m2/repository"/>
+    <property name="java.vendor.url.bug" value="Unknown"/>
+    <property name="java.io.tmpdir" value="/tmp"/>
+    <property name="java.version" value="17.0.2"/>
+    <property name="user.dir" value="/home/jp/HE2B-ESI/BA1/DEV2/Chess"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="native.encoding" value="UTF-8"/>
+    <property name="java.library.path" value="/usr/java/packages/lib:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Private Build"/>
+    <property name="java.vm.version" value="17.0.2+8-Ubuntu-120.04"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="61.0"/>
+  </properties>
+  <testcase name="testGetPossibleMovesGeneralCaseBlack" classname="g58990.chess.model.PawnTest" time="0.032"/>
+  <testcase name="testGetPossibleMovesGeneralCaseWhite" classname="g58990.chess.model.PawnTest" time="0.001"/>
+  <testcase name="testGetCapturePositionsSameColorPieceBlack" classname="g58990.chess.model.PawnTest" time="0.002"/>
+  <testcase name="testGetCapturePositionsSameColorPieceWhite" classname="g58990.chess.model.PawnTest" time="0.001"/>
+  <testcase name="testGetCapturePositionsBorderBlack" classname="g58990.chess.model.PawnTest" time="0.001"/>
+  <testcase name="testGetCapturePositionsBorderWhite" classname="g58990.chess.model.PawnTest" time="0.001"/>
+  <testcase name="testGetCapturePositionsLastRowBlack" classname="g58990.chess.model.PawnTest" time="0.001"/>
+  <testcase name="testGetCapturePositionsLastRowWhite" classname="g58990.chess.model.PawnTest" time="0.001"/>
+  <testcase name="testGetPossibleMovesInitialPositionAndOnePieceToTakeBlack" classname="g58990.chess.model.PawnTest" time="0.001"/>
+  <testcase name="testGetPossibleMovesInitialPositionAndOnePieceToTakeWhite" classname="g58990.chess.model.PawnTest" time="0.001"/>
+  <testcase name="testGetPossibleMovesInitialPositionAndTwoPieceToTakeBlack" classname="g58990.chess.model.PawnTest" time="0.002"/>
+  <testcase name="testGetPossibleMovesInitialPositionAndTwoPieceToTakeWhite" classname="g58990.chess.model.PawnTest" time="0.001"/>
+  <testcase name="testGetPossibleMovesInitialPositionOpponentPieceOnFirstSquareBlack" classname="g58990.chess.model.PawnTest" time="0.001"/>
+  <testcase name="testGetPossibleMovesInitialPositionOpponentPieceOnFirstSquareWhite" classname="g58990.chess.model.PawnTest" time="0.001"/>
+  <testcase name="testGetPossibleMovesInitialPositionBlack" classname="g58990.chess.model.PawnTest" time="0.001"/>
+  <testcase name="testGetPossibleMovesInitialPositionWhite" classname="g58990.chess.model.PawnTest" time="0.001"/>
+  <testcase name="testGetCapturePositionsGeneralCaseBlack" classname="g58990.chess.model.PawnTest" time="0.001"/>
+  <testcase name="testGetPossibleMovesInitialPositionOpponentPieceOnSecondSquareBlack" classname="g58990.chess.model.PawnTest" time="0.001"/>
+  <testcase name="testGetCapturePositionsGeneralCaseWhite" classname="g58990.chess.model.PawnTest" time="0.001"/>
+  <testcase name="testGetPossibleMovesInitialPositionOpponentPieceOnSecondSquareWhite" classname="g58990.chess.model.PawnTest" time="0.001"/>
+  <testcase name="testGetCapturePositionsOpponentPieceAndSameColorPieceBlack" classname="g58990.chess.model.PawnTest" time="0.001"/>
+  <testcase name="testGetCapturePositionsOpponentPieceAndSameColorPieceWhite" classname="g58990.chess.model.PawnTest" time="0.001"/>
+  <testcase name="testGetPossibleMovesP" classname="g58990.chess.model.PawnTest" time="0.001"/>
+  <testcase name="testGetPossibleMovesPieceLastRowBlack" classname="g58990.chess.model.PawnTest" time="0.001"/>
+  <testcase name="testGetPossibleMovesPieceLastRowWhite" classname="g58990.chess.model.PawnTest" time="0.001"/>
+  <testcase name="testGetPossibleMovesBordEdgeBlack" classname="g58990.chess.model.PawnTest" time="0"/>
+  <testcase name="testGetPossibleMovesBordEdgeWhite" classname="g58990.chess.model.PawnTest" time="0"/>
+  <testcase name="testGetCapturePositionsOpponentPieceBlack" classname="g58990.chess.model.PawnTest" time="0"/>
+  <testcase name="testGetCapturePositionsOpponentPieceWhite" classname="g58990.chess.model.PawnTest" time="0.001"/>
+</testsuite>

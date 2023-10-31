@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="g58990.chess.model.pieces.FlyingBishopTest" time="0.063" tests="8" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="17"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.class.path" value="/home/jp/HE2B-ESI/BA1/DEV2/Chess/target/test-classes:/home/jp/HE2B-ESI/BA1/DEV2/Chess/target/classes:/home/jp/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.6.0/junit-jupiter-api-5.6.0.jar:/home/jp/.m2/repository/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0.jar:/home/jp/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar:/home/jp/.m2/repository/org/junit/platform/junit-platform-commons/1.6.0/junit-platform-commons-1.6.0.jar:/home/jp/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.6.0/junit-jupiter-params-5.6.0.jar:/home/jp/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.6.0/junit-jupiter-engine-5.6.0.jar:/home/jp/.m2/repository/org/junit/platform/junit-platform-engine/1.6.0/junit-platform-engine-1.6.0.jar:"/>
+    <property name="java.vm.vendor" value="Private Build"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.vendor.url" value="Unknown"/>
+    <property name="os.name" value="Linux"/>
+    <property name="java.vm.specification.version" value="17"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="BE"/>
+    <property name="sun.boot.library.path" value="/usr/lib/jvm/java-17-openjdk-amd64/lib"/>
+    <property name="sun.java.command" value="/home/jp/HE2B-ESI/BA1/DEV2/Chess/target/surefire/surefirebooter14969514564751930723.jar /home/jp/HE2B-ESI/BA1/DEV2/Chess/target/surefire 2022-05-13T11-22-36_449-jvmRun1 surefire11877368898427807411tmp surefire_07475979602525507742tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="test" value="g58990.chess.model.pieces.FlyingBishopTest"/>
+    <property name="surefire.test.class.path" value="/home/jp/HE2B-ESI/BA1/DEV2/Chess/target/test-classes:/home/jp/HE2B-ESI/BA1/DEV2/Chess/target/classes:/home/jp/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.6.0/junit-jupiter-api-5.6.0.jar:/home/jp/.m2/repository/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0.jar:/home/jp/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar:/home/jp/.m2/repository/org/junit/platform/junit-platform-commons/1.6.0/junit-platform-commons-1.6.0.jar:/home/jp/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.6.0/junit-jupiter-params-5.6.0.jar:/home/jp/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.6.0/junit-jupiter-engine-5.6.0.jar:/home/jp/.m2/repository/org/junit/platform/junit-platform-engine/1.6.0/junit-platform-engine-1.6.0.jar:"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="/home/jp"/>
+    <property name="user.language" value="fr"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2022-04-19"/>
+    <property name="java.home" value="/usr/lib/jvm/java-17-openjdk-amd64"/>
+    <property name="file.separator" value="/"/>
+    <property name="basedir" value="/home/jp/HE2B-ESI/BA1/DEV2/Chess"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="/home/jp/HE2B-ESI/BA1/DEV2/Chess/target/surefire/surefirebooter14969514564751930723.jar"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="17.0.3+7-Ubuntu-0ubuntu0.20.04.1"/>
+    <property name="user.name" value="jp"/>
+    <property name="path.separator" value=":"/>
+    <property name="os.version" value="5.13.0-41-generic"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="maven.ext.class.path" value="/snap/netbeans/58/netbeans/java/maven-nblib/netbeans-eventspy.jar"/>
+    <property name="localRepository" value="/home/jp/.m2/repository"/>
+    <property name="java.vendor.url.bug" value="Unknown"/>
+    <property name="java.io.tmpdir" value="/tmp"/>
+    <property name="java.version" value="17.0.3"/>
+    <property name="user.dir" value="/home/jp/HE2B-ESI/BA1/DEV2/Chess"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="native.encoding" value="UTF-8"/>
+    <property name="java.library.path" value="/usr/java/packages/lib:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Private Build"/>
+    <property name="java.vm.version" value="17.0.3+7-Ubuntu-0ubuntu0.20.04.1"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="61.0"/>
+  </properties>
+  <testcase name="testGetPossibleMovesGeneralCaseBlack" classname="g58990.chess.model.pieces.FlyingBishopTest" time="0.032"/>
+  <testcase name="testGetPossibleMovesGeneralCaseWhite" classname="g58990.chess.model.pieces.FlyingBishopTest" time="0.001"/>
+  <testcase name="testGetPossibleMovesWhitePieceWhite" classname="g58990.chess.model.pieces.FlyingBishopTest" time="0.001"/>
+  <testcase name="testGetPossibleMovesPieceToTakeBlack" classname="g58990.chess.model.pieces.FlyingBishopTest" time="0.002"/>
+  <testcase name="testGetPossibleMovesPieceToTakeWhite" classname="g58990.chess.model.pieces.FlyingBishopTest" time="0"/>
+  <testcase name="testGetPossibleMovesBlackPieceBlack" classname="g58990.chess.model.pieces.FlyingBishopTest" time="0.001"/>
+  <testcase name="testGetPossibleMovesBorderBlack" classname="g58990.chess.model.pieces.FlyingBishopTest" time="0.001"/>
+  <testcase name="testGetPossibleMovesBorderWhite" classname="g58990.chess.model.pieces.FlyingBishopTest" time="0.001"/>
+</testsuite>
